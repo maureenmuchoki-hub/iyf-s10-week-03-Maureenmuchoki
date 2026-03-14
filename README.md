@@ -8,8 +8,8 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 ## Screenshot
 
-![My Portfolio](./src/images/My-Portfolio-Page.png)
-![Terminal Path](./src/images/Terminal-Path.png)
+[My Portfolio](./src/images/My-Portfolio-Page.png)
+[Terminal Path](./src/images/Terminal-Path.png)
 
 ## Features
 
