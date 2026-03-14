@@ -4,7 +4,7 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 ## Live Demo
 
-[View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/i)
+[View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/)
 
 ## Screenshot
 
@@ -38,7 +38,7 @@ iyf-s10-week-03-yourusername/
 └── images/
 \`\`\`
 
-\`\`\`
+
 iyf-s10-week-03-Maureenmuchoki/
 ├── README.md
 ├── docs/
@@ -51,7 +51,7 @@ iyf-s10-week-03-Maureenmuchoki/
 │ └── images/
 │ └── My Profile.JPG
 └── tests/
-\`\`\`
+
 
 ## What I Learned
 
@@ -70,7 +70,7 @@ iyf-s10-week-03-Maureenmuchoki/
 ## Contact
 
 - Email: nyamburammaureen2000@gmail.com  
-- LinkedIn: [Maureen Muchoki](https://linkedin.com/in/muchokimaureen)  
+- LinkedIn: [https://www.linkedin.com/in/maureen-muchoki-0292283b3/)  
 - GitHub: [@MaureenMuchoki](https://github.com/maureenmuchoki-hub)
 
 ## License
