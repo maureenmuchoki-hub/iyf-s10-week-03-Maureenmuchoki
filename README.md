@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maureen Muchoki - Week 03 Project
 
 This is my Week 3 portfolio project for IYF S10. This project demonstrates my ability to use the terminal, Git, and GitHub to create a well-structured portfolio. I practiced file management, Git workflow, branching, and professional README creation.
@@ -63,3 +64,7 @@ iyf-s10-week-03-Maureenmuchoki/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# iyf-s10-week-03-Maureenmuchoki
+
+>>>>>>> aaba93a (docs: fix folder tree display in README)
