@@ -38,8 +38,9 @@ iyf-s10-week-03-Maureenmuchoki/
     ├── js/
     │   └── main.js
     └── images/
+        ├── My Profile.JPG
         ├── Terminal-Path.png
-        └── screenshot.png
+        └── My-Profile-Page.png
 ```
 
 ## What I Learned
