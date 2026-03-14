@@ -9,6 +9,7 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 ## Screenshot
 
 ![Project Screenshot](./src/images/My%20Profile.JPG)
+![Terminal Path](./src/images/terminal-Path.png)
 
 ## Features
 
@@ -26,19 +27,6 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 ## Project Structure
 
-
-\`\`\`
-iyf-s10-week-03-yourusername/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-├── css/
-│   └── styles.css
-└── images/
-\`\`\`
-
-
 iyf-s10-week-03-Maureenmuchoki/
 ├── README.md
 ├── docs/
@@ -49,9 +37,8 @@ iyf-s10-week-03-Maureenmuchoki/
 │ ├── js/
 │ │ └── main.js
 │ └── images/
-│ └── My Profile.JPG
+│ └── screenshot.png
 └── tests/
-
 
 ## What I Learned
 
@@ -70,7 +57,7 @@ iyf-s10-week-03-Maureenmuchoki/
 ## Contact
 
 - Email: nyamburammaureen2000@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/maureen-muchoki-0292283b3/)  
+- LinkedIn: [Maureen Muchoki](https://linkedin.com/in/maureen-muchoki-0292283b3/)
 - GitHub: [@MaureenMuchoki](https://github.com/maureenmuchoki-hub)
 
 ## License
