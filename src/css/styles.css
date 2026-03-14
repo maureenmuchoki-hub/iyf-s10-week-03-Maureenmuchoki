@@ -26,6 +26,15 @@
         margin-left: 20px;
         text-decoration: none;
     }
+    /*Profile Image section*/
+    .profile img{
+    width: 150px;
+    height: 180px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    }
+
     /*Skills section*/
     skills{
         background-color: white;
