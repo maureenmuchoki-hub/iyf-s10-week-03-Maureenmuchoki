@@ -59,7 +59,7 @@ iyf-s10-week-03-Maureenmuchoki/
 
 ## Contact
 
-- Email: nyamburammaureen2000@gmail.com  
+- Email: nyamburamaureen2000@gmail.com  
 - LinkedIn: [Maureen Muchoki](https://linkedin.com/in/maureen-muchoki-0292283b3/)
 - GitHub: [@MaureenMuchoki](https://github.com/maureenmuchoki-hub)
 
