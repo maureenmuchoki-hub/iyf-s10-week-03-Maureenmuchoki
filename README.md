@@ -6,9 +6,10 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 [View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/)
 
-## Screenshot
+## Screenshots
 
 [My Portfolio](./src/images/My-Portfolio-Page.png)
+
 [Terminal Path](./src/images/Terminal-Path.png)
 
 ## Features
