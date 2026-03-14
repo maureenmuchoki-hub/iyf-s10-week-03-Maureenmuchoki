@@ -4,7 +4,7 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 ## Live Demo
 
-[View Live Site](https://yourusername.github.io/iyf-s10-week-03-Maureenmuchoki)
+[View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/i)
 
 ## Screenshot
 
@@ -25,6 +25,18 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 - Git & GitHub
 
 ## Project Structure
+
+
+\`\`\`
+iyf-s10-week-03-yourusername/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── css/
+│   └── styles.css
+└── images/
+\`\`\`
 
 \`\`\`
 iyf-s10-week-03-Maureenmuchoki/
