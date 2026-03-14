@@ -26,7 +26,7 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 - Git & GitHub
 
 ## Project Structure
-
+\`\`\`
 iyf-s10-week-03-Maureenmuchoki/
 ├── README.md
 ├── docs/
@@ -39,6 +39,7 @@ iyf-s10-week-03-Maureenmuchoki/
 │ └── images/
 │ └── screenshot.png
 └── tests/
+\`\`\`
 
 ## What I Learned
 
