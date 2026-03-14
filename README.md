@@ -27,17 +27,19 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 ## Project Structure
 
+```
 iyf-s10-week-03-Maureenmuchoki/
 ├── README.md
 └── src/
-├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── main.js
-└── images/
-├── Terminal-Path.png
-└── screenshot.png
+    ├── index.html
+    ├── css/
+    │   └── styles.css
+    ├── js/
+    │   └── main.js
+    └── images/
+        ├── Terminal-Path.png
+        └── screenshot.png
+```
 
 ## What I Learned
 
