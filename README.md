@@ -9,7 +9,7 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 ## Screenshot
 
 ![Project Screenshot](./src/images/My%20Profile.JPG)
-![Terminal Path](./src/images/Terminal-Path.png)
+[Terminal Path](./src/images/Terminal-Path.png)
 
 ## Features
 
