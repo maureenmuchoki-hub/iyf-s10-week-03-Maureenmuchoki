@@ -74,7 +74,7 @@ iyf-s10-week-03-Maureenmuchoki/
 
 [View Live Site](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/)
 
-[My Portfolio](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/index.html)
+[My Portfolio](https://maureenmuchoki-hub.github.io/iyf-s10-week-03-Maureenmuchoki/src/index.html)
 
 [My Portfolio](https://github.com/maureenmuchoki-hub/iyf-s10-week-03-Maureenmuchoki/blob/main/src/index.html)
 
