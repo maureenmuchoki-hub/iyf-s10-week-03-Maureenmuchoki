@@ -14,15 +14,14 @@
     }
     /*Page styling*/
     nav{
-        background-color: #f2f2f2;
-        color:skyblue;
+        background-color: blue;
         padding: 10px 40px;
         display: flex;
         justify-content: space-between;
         align-items: center;
     }
     nav a{
-        color:blue;
+        color:black;
         margin-left: 20px;
         text-decoration: none;
     }
@@ -36,22 +35,21 @@
     }
 
     /*Skills section*/
-    skills{
+    .skills{
         background-color: white;
-        color: white;
+        color: black;
         padding: 5px;
     
     }
     .skill-box{
         display: inline-block;
-        background-color: blue;
+        background-color: skyblue;
         margin: 5px;
         width: 250px;
         vertical-align: top;
         border-radius: 12px;
         transition: transform 0.3s;
     }
-
 
     /*Contact section*/
     .contact{
