@@ -41,9 +41,9 @@ This is my Week 3 portfolio project for IYF S10. This project demonstrates my ab
 
 ## Screenshots
 
-[My Portfolio](./src/images/My-Portfolio-Page.png)
+![My Portfolio](./src/images/My-Portfolio-Page.png)
 
-[Terminal Path](./src/images/Terminal-Path.png)
+![Terminal Path](./src/images/Terminal-Path.png)
 
 
 ## Project Structure
